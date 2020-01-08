@@ -45,10 +45,9 @@ var mark = {
 john.tipCalculator(); // Run the calculator so the tipValues and finalValues are populated with actual amounts
 mark.tipCalculator();
 
-var tipArray1Sum = 0; // To find the sum, we start at 0 and increase this using the averageTips function
-var tipArray2Sum = 0;
-
 function averageTips(tipArray1, tipArray2) {
+    var tipArray1Sum = 0; // To find the sum, we start at 0 and increase this using the averageTips function
+    var tipArray2Sum = 0;
     for (var i = 0; i <= tipArray1.length - 1; i++) { // Loop over the first array given, sum all the amounts within the array and push it to tipArray1Sum
         tipArray1Sum += tipArray1[i];
     }
