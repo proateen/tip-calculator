@@ -42,7 +42,7 @@ var mark = {
     }
 }
 
-john.tipCalculator(); // Run the calculator so the tipValues and finalVarues are populated with actual amounts
+john.tipCalculator(); // Run the calculator so the tipValues and finalValues are populated with actual amounts
 mark.tipCalculator();
 
 var tipArray1Sum = 0; // To find the sum, we start at 0 and increase this using the averageTips function
