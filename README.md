@@ -2,7 +2,7 @@
 
 This is a solution to the final coding challenge of the first section of the JavaScript course on jonas.io
 
-Challenge:
+*Challenge:*
 
 John and his family went to 5 different restaurants. The bills were $124, $48, $268, $180 and $42.
 John likes to tip 20% of the bill when the bill is less than $50, 15% when the bill is between $50 and $200, and 10% if the bill is more than $200.
